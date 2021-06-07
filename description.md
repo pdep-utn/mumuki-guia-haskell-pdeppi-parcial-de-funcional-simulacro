@@ -1,4 +1,4 @@
-Parcial del paradigma funcional para la materia _Paradigmas de programación - UTN.BA_.
+Simulacro de parcial del paradigma funcional para la materia _Paradigmas de programación - UTN.BA_.
 
 Es importante que leas todo el enunciado. 
 
